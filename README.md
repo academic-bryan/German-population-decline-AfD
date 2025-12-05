@@ -110,5 +110,17 @@ lockwald@unlv.nevada.edu |
 
 ## Acknowledgments
 
-- Committee members: [Names]
+- Committee members:
+    - Chair: Dr. Christian Jensen
+        Professor, Political Science Department, UNLV. christian.jensen@unlv.edu
+    - Member: Dr. Michelle Kuenzi
+        Professor, Political Science Department, UNLV. michele.kuenzi@unlv.edu
+    - Member: Dr. Austin Wang
+        Associate Professor, Political Science Department, UNLV. austin.wang@unlv.edu
+    - Member: Dr. Tirth Bhatta
+      Associate Professor of Sociology, Sociology Department, UNLV. tirth.bhatta@unlv.edu
+      
 - Data sources: GERDA, Destatis, BKG
+
+- Dedicated to Neysa Lockwald who listened to everything.
+- 
