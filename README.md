@@ -56,6 +56,7 @@ Data can be obtained from:
 - **Election data:** [GERDA (German Electoral Research Data Archive)](https://github.com/awiedem/german_election_data)
 - **Population data:** [Regional Statistics (Destatis)](https://www.regionalstatistik.de/)
 - **Shapefiles:** [Federal Agency for Cartography and Geodesy](https://gdz.bkg.bund.de/)
+- **Download Directly:** [RESTATIS R Package](https://github.com/CorrelAid/restatis)
 
 See `Data_Download_Instructions.md` for step-by-step data acquisition guide.
 
