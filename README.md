@@ -53,7 +53,7 @@ renv::restore()
 **Due to file size constraints, data files are not included in this repository.**
 
 Data can be obtained from:
-- **Election data:** [GERDA (German Electoral Research Data Archive)](https://www.gerda-data.de/)
+- **Election data:** [GERDA (German Electoral Research Data Archive)](https://github.com/awiedem/german_election_data)
 - **Population data:** [Regional Statistics (Destatis)](https://www.regionalstatistik.de/)
 - **Shapefiles:** [Federal Agency for Cartography and Geodesy](https://gdz.bkg.bund.de/)
 
